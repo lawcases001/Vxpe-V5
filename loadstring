@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PhasedGapple/HackMee-RobloxBedwars/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LawcasesScript/RobloxBedwars/main/NewMainScript.lua", true))()
